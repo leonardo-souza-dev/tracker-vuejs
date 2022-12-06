@@ -1,6 +1,6 @@
 # tracker-vuejs
 
-## Project setup
+## Preparação do projeto
 ```
 npm install
 ```
