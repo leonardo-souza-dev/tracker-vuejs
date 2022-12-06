@@ -1,4 +1,4 @@
-# alura-tracker
+# tracker-vuejs
 
 ## Project setup
 ```
